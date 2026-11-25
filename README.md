@@ -14,6 +14,6 @@ davIA PDF Maker
 ​📝 Contribuição
 ​Contribuições, relatórios de problemas e sugestões são bem-vindos! Sinta-se à vontade para abrir issues ou enviar pull requests.
 ​📄 Licença
-​Este projeto está sob a licença [Inserir o nome da licença, ex.: MIT].
+​Este projeto está sob a licença de davIA Technologies.
 ​Criado com dedicação e persistência.# davIA-Pdf-Maker
 Criação de PDF
